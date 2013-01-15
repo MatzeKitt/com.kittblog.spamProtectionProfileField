@@ -2,6 +2,6 @@
 <language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/language.xsd" languagecode="de">
 	<category name="wcf.user.option">
 		<item name="wcf.user.option.spamProtection"><![CDATA[Sicherheitsfunktion]]></item>
-		<item name="wcf.user.option.spamProtection.description"><![CDATA[Bitte geben Sie das Ergebnis von 3 + 5 an.]]></item>
+		<item name="wcf.user.option.spamProtection.description"><![CDATA[Bitte geben Sie das Ergebnis von 3 + 5 ein.]]></item>
 	</category>
 </language>
