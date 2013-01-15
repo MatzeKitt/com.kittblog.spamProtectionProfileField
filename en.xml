@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/language.xsd" languagecode="en">
+	<category name="wcf.user.option">
+		<item name="wcf.user.option.spamProtection"><![CDATA[Security feature]]></item>
+		<item name="wcf.user.option.spamProtection.description"><![CDATA[Please enter the result of 3 + 5.]]></item>
+	</category>
+</language>
