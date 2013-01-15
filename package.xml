@@ -20,6 +20,12 @@
 	<instructions type="install">
 		<useroptions>useroptions.xml</useroptions>
 		<languages languagecode="de">de.xml</languages>
+		<languages languagecode="de-informal">de-informal.xml</languages>
 		<languages languagecode="en">en.xml</languages>
-	</instructions> 
+	</instructions>
+	
+	<instructions type="update" fromversion="1.0.0">
+		<languages languagecode="de">de.xml</languages>
+		<languages languagecode="de-informal">de-informal.xml</languages>
+	</instructions>
 </package>
